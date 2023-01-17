@@ -28,7 +28,7 @@
 
 -->
 <site-config>
-    <version>10</version>
+    <version>4.0.1</version>
     <wem-project>testsite</wem-project>
     <display-name>testsite</display-name>
     <locale>
