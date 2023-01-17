@@ -30,8 +30,8 @@
 -->
 <site-config>
   <version>8</version>
-  <wem-project>{siteName}</wem-project>
-  <display-name>{siteName}</display-name>
+  <wem-project>testsite</wem-project>
+  <display-name>testsite</display-name>
 
   <locale>
     <!--
